@@ -1,0 +1,11 @@
+name: DeathChest
+version: ${project.version}
+main: org.example.DeathChest
+api-version: "1.21"
+authors:
+  - Author
+description: Creates a chest with player items on death
+
+permissions:
+  deathchest.bypass:
+    default: op
