@@ -3,7 +3,7 @@ version: ${project.version}
 main: org.example.DeathChest
 api-version: "1.21"
 authors:
-  - Author
+  - rukia
 description: Creates a chest with player items on death
 
 permissions:
